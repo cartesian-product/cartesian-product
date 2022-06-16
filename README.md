@@ -1,6 +1,6 @@
 Hello! I’m Will (@cartesian-product).
 
-  I make tools that help folks manage complex systems (not just software, but practices and experiences, too).  Maybe one day, something aside from the README will be 
+  I make tools that help folks manage complex systems (not just software, but practices and experiences, too).  Maybe, one day, something aside from the README will be 
   available for public consumption here.  
   
   Until then!
